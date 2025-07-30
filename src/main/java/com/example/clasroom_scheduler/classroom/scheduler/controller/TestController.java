@@ -1,4 +1,4 @@
-package com.example.clasroom_scheduler.classroom.scheduler.controllers;
+package com.example.clasroom_scheduler.classroom.scheduler.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
